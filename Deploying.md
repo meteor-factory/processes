@@ -48,6 +48,7 @@ sleep 240 && chimp --ddp=http://localhost:3000 --path=tests --mocha --browser=ch
 ```
 
 **Deployment -> Deployment Pipelines**
+
 Pipeline 1: `Branch should be exactly master`
 
 Pipeline 2: `Branch should be exactly stage`
