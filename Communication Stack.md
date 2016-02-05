@@ -48,3 +48,17 @@ Most common labels:
 * Failed test
 
 ## Slack
+Slack should be used for instant chat between devs, client and project manager.
+
+Project manager should:
+* Set up slack channel
+* Invite devs
+* Invite client
+
+## Github
+Project manager should:
+* Set up private Github repo
+* Invite devs
+* Invite client (where appropriate)
+
+For more, see [Committing Code](https://github.com/meteor-factory/processes/blob/master/Comitting%20Code.md)
