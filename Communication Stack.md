@@ -7,7 +7,17 @@ The tools we primarily use for communicating are
 * **Github** - for code
 
 ## Trello
-Typical columns for trello would be
+Project manager should:
+* Create Trello board
+* Populate with cards
+* Give developers access
+* Give client access
+* Add link to project Github Readme
+
+Devs should:
+* Keep Trello board in sync with their work
+
+## Columns
 * **Ideas** - Tasks that might be done
 * **Backlog** - Tasks that should eventually be done
 * **Todo / Sprint [date]** - The next set of tasks to be done / completed for the end of the sprint
@@ -36,3 +46,5 @@ Labels can be created where useful.
 Most common labels:
 * Bug
 * Failed test
+
+## Slack
