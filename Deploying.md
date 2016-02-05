@@ -41,7 +41,7 @@ cd app
 ```
 N.B. this assumes Meteor app is in `app` subfolder of repo
 
-**Testing -> Configure Test Pipelines*
+**Testing -> Configure Test Pipelines**
 ```
 meteor --settings private/settings/dev.json --port 3000 &
 sleep 240 && chimp --ddp=http://localhost:3000 --path=tests --mocha --browser=chrome
