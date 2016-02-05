@@ -29,9 +29,12 @@ In the Codeship control panel, this following might be helpful
 
 **Testing -> Setup Commands**
 ```
-nvm install 0.10.40
-nvm use 0.10.40
+nvm install 5.2.0
+nvm use 5.2.0
 npm install jshint -g
+npm install chimp -g
+npm install selenium-standalone -g
+selenium-standalone install --version=2.50.1 --baseURL=https://selenium-release.storage.googleapis.com --basePath=`npm config get prefix`/lib/node_modules/chimp/node_modules/selenium-standalone/.selenium
 curl -o meteor_install_script.sh https://install.meteor.com/
 chmod +x meteor_install_script.sh
 sed -i "s/type sudo >\/dev\/null 2>&1/\ false /g" meteor_install_script.sh
