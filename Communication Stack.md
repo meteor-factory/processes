@@ -8,7 +8,7 @@ The tools we primarily use for communicating are
 
 ## Trello
 Project manager should:
-* Create Trello board
+* Create a private Trello board, under the Meteor Factory organisation
 * Populate with cards
 * Give developers access
 * Give client access
