@@ -17,7 +17,7 @@ Project manager should:
 Devs should:
 * Keep Trello board in sync with their work
 
-## Columns
+#### Columns
 * **Ideas** - Tasks that might be done
 * **Backlog** - Tasks that should eventually be done
 * **Todo / Sprint [date]** - The next set of tasks to be done / completed for the end of the sprint
@@ -27,7 +27,7 @@ Devs should:
 * **Testing** - To be tested by the client
 * **Tested** - Passed by the client
 
-### Assigning
+#### Assigning
 The active developer should be assigned to the card. This means that you're responsible for the card and are 'blocking' the cards completion.
 
 * Assign yourself to the cards you're working on
@@ -35,12 +35,12 @@ The active developer should be assigned to the card. This means that you're resp
 * Assign yourself to cards that you'd be good at (e.g. worked on before)
 * Try not to overassign yourself, as it may stop other devs from jumping on the card
 
-### Testing
+#### Testing
 When a card passes, it is moved into the next column.
 
 When a card fails, it should receive the label 'Failed Test' and be moved into the 'To do / Sprint' column
 
-### Labels
+#### Labels
 Labels can be created where useful.
 
 Most common labels:
