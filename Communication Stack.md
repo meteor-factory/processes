@@ -60,5 +60,6 @@ Project manager should:
 * Set up private Github repo
 * Invite devs
 * Invite client (where appropriate)
+* Set default branch to `develop` (once it's been pushed)
 
 For more, see [Committing Code](https://github.com/meteor-factory/processes/blob/master/Comitting%20Code.md)
