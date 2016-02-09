@@ -35,7 +35,14 @@ The active developer should be assigned to the card. This means that you're resp
 * Assign yourself to cards that you'd be good at (e.g. worked on before)
 * Try not to overassign yourself, as it may stop other devs from jumping on the card
 
+#### Pull Requests
+The senior devs in each project are responsible for accepting PRs.
+
+Once a PRs is accepted the latest code should be deployed to the staging url so it can be tested.
+
 #### Testing
+Tickets are only allowed to be moved into testing when they are running live on the staging url.
+
 When a card passes, it is moved into the next column.
 
 When a card fails, it should receive the label 'Failed Test' and be moved into the 'To do / Sprint' column
@@ -54,6 +61,9 @@ Project manager should:
 * Set up slack channel
 * Invite devs
 * Invite client
+
+Commonly needed project files like trello link or hour sheets will be stored in the header of the main channel.
+
 
 ## Github
 Project manager should:
