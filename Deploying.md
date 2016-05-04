@@ -2,7 +2,7 @@
 A developer should be in charge of the deployment process.
 
 ## App hosting
-Currently we use Modulus for hosting. In the future we'll probably switch to Galaxy.
+Currently we use Modulus and Digital Ocean for hosting. (In the future we might switch to Galaxy.)
 
 The developer should:
 * Set up organisation `My Project` under the `myproject@gmail.com` email
