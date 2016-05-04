@@ -1,5 +1,5 @@
 # Credentials
-A Gmail account should be set up for each project. This email should be used to sign up for other services.
+A Email account should be set up for each project (not gmail or a service which tracks login locations...). This email should be used to sign up for other services.
 
 Credentials for this account and others accounts should be stored in the Readme. This is insecure, but easy.
 
