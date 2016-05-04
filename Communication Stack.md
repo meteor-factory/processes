@@ -25,7 +25,7 @@ Devs should:
 * **Pull Request** - A PR has been created in Github
 * **Testing MF** - To be tested by Meteor Factory project manager
 * **Testing** - To be tested by the client
-* **Tested** - Passed by the client
+* **Done** - Passed by the client
 
 #### Assigning
 The active developer should be assigned to the card. This means that you're responsible for the card and are 'blocking' the cards completion.
@@ -49,6 +49,8 @@ Most common labels:
 
 ## Slack
 Slack should be used for instant chat between devs, client and project manager.
+
+Use MF Chat for all dev talk. Use Client chat basically only for communication with the client. Have in the client chat an eye on the #general channel where noticeworthy information might be shared with the client + dev team
 
 Project manager should:
 * Set up slack channel
