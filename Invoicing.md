@@ -1,6 +1,6 @@
 # Invoicing
 
-**Create an invoice for every project/ client you work for (including Meteorfactory for open source work)**
+**Create an invoice for every project/ client you work for** (including Meteorfactory for open source work)
 
 An invoice includes
 * Your hours in that month for the specific client, your rate, multiply those two
