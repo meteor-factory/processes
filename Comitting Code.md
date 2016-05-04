@@ -26,5 +26,5 @@ Life cycle of a new feature:
 * Move Trello card from "Pull Request" to next column
 
 #### Committing
-* Commit messages should provide a brief summary of what you did. (`Small fixes` is OK, only if it's clear from the code changes what those fixes were)
+* Standard format: 'Trello Number: explanation text' e.g. '172: Styling for login button'
 * Commit messages should have correct spelling & grammar and always be professional
