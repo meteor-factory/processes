@@ -11,7 +11,7 @@ Each project will have an **architect** who's responsible for the architecture &
 * Commit some code with message `T### : short explanation`
  * e.g. `T172: Styling for login button`
 * `git push`
-* Go the Github page and follow the prompts to create a new PR
+* Go to Github page and follow the prompts to create a new PR
 * Move Trello card to "Pull Request" column
 
 **2. Architect**:
